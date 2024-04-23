@@ -1,2 +1,2 @@
 # Get-Twitch-Followers
-Get list of streamer's follows and generate charts with statistics
+Get list of streamer's followers and generate charts with statistics
