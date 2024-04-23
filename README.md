@@ -1,7 +1,7 @@
 # Get-Twitch-Followers
 Get list of streamer's followers and generate charts with statistics
 
-> **Because of Twitch's API changes this no longer works.**
+> **Because of Twitch's API changes this no longer works.** <br>
 > Changes have to be done.
 
 It's my old one-night project.
